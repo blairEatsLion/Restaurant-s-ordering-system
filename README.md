@@ -1,4 +1,4 @@
-# Restaurants-ordering-system
+# Restaurant-ordering-system
 
 Java
 Good OO techniques with use of the Composite, Decorator, Iterator and Singleton design patterns
